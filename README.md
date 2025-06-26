@@ -32,7 +32,7 @@ This project is part of the Google Cybersecurity Certificate (Course 3). It pres
 
 ## 🧾 Files Included
 - `Network_Risk_Assessment_Report.pdf` – Final report with vulnerabilities, solutions, and explanations.
-- *(Optional)* `hardening_methods_summary.txt` – Additional notes on tool effectiveness and scheduling.
+- `network-hardening-tools-reference.pdf` – *(Optional)* Additional notes on tool effectiveness and scheduling.
 
 ---
 
